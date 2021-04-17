@@ -11,4 +11,4 @@ The stylesheets and JQuery code is used on my personal CDN but you can always co
 colors you want.
 
 # Enjoy
-If you want any help, dm me in discord (Matt.#3820 / User ID: 516431890518114305)
+If you want any help, dm me in discord ( mattt#6969 / User ID: 516431890518114305)
